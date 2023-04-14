@@ -61,4 +61,4 @@ lastupdate: 12-04-2023
 
 
 ## See Also
-[[windows-customization]]
+[windows-customization](tech/windows/windows-customization.md)
