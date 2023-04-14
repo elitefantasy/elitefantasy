@@ -1,33 +1,22 @@
 ---
-title: 💜 Welcome to Amethyst!
+title: Elitefantasy Homepage
 enableToc: false
 ---
 
-## What is Amethyst?
-Amethyst is a free [Obsidian Publish](https://obsidian.md/publish) alternative that is derived from two existing projects, [Quartz](https://quartz.jzhao.xyz/) and [Hugo Book](https://github.com/alex-shpak/hugo-book).
+Hi 👋, I'm Elitefantasy.
 
-The purpose of Amethyst is to provide a space to publish more structured notes created in Obsidian that may not fit in the [digital garden](https://joelhooks.com/digital-garden/) archetype that is well-supported by existing projects.
+I am a medical student. Love Science and Technology.
+I Try to write , when i get free time
 
-Amethyst was primarily created as a theme for my [course notes](https://notes.bencuan.me).
+Inspired by others who shared their digital gardens 🍀.
+so i decided why not share some of my collection too.
 
-## Get Started
-> 📚 Step 1: [Setup your own Amethyst instance](setup/setup.md)
+Here's my second brain presented to You!!
 
-> ✏️ Step 2: [Editing Notes in Amethyst](setup/editing.md)
 
-> 🔗 Step 3: [How to setup your Obsidian Vault to work with Amethyst](setup/obsidian.md)
+If you are also a student especially a PCB student then you can check out some [study resources]() ( i will soon post them)
 
-> 👀 Step 4: [Preview Changes](setup/preview%20changes.md)
+## List of Top Articles 📃
 
-> 🌍 Step 5: [Hosting Amethyst online!](setup/hosting.md)
+[My Favourite List of Softwares](tech/windows/My%20Favourite%20List%20of%20Softwares.md)
 
-> 🎨 Step 6:  [Customizing Amethyst](setup/config.md)
-
-Returning user? Here's how to [[setup/updating|update]] your existing Amethyst instance.
-
-Here's a list of all [setup-related notes](/tags/setup), which are also accessible via the sidebar menu under the "Getting Started" section.
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](setup/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/64bitpandas/amethyst/issues)
-- 👀 [Contact me](https://bencuan.me/contact)
