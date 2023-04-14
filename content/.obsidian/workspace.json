@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/windows/My Favourite List of Softwares.md",
+                "file": "private/private-note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3342ade7aa6d88a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/another private.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/windows/My Favourite List of Softwares.md",
+                "file": "private/another private.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/windows/My Favourite List of Softwares.md",
+                "file": "private/another private.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/windows/My Favourite List of Softwares.md"
+                "file": "private/another private.md"
               }
             }
           }
@@ -146,12 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a86cd623ffde55eb",
+  "active": "3342ade7aa6d88a7",
   "lastOpenFiles": [
-    "Creating Your First Note in Quartz.md",
-    "_index.md",
-    "tech/_index.md",
     "private/private-note.md",
+    "private/another private.md",
+    "tech/windows/windows-customization.md",
+    "tech/windows/My Favourite List of Softwares.md",
+    "_index.md",
+    "Creating Your First Note in Quartz.md",
+    "tech/_index.md",
     "notes/updating.md",
     "notes/troubleshooting.md",
     "notes/showcase.md",
@@ -167,8 +183,6 @@
     "notes/config.md",
     "notes/CJK + Latex Support (测试).md",
     "notes/callouts.md",
-    "tech/windows/windows-customization.md",
-    "tech/windows/My Favourite List of Softwares.md",
     "tech/Learn Github Pages.md",
     "tech/Untitled.md",
     "test.html",
