@@ -33,5 +33,5 @@ globalGraph:
 
 ### For all graphs ###
 paths:
-#   - /moc: "#4388cc"
-  - /content/: "#4388cc"
+  - /moc: "#4388cc"
+#   - /content/: "#4388cc"
