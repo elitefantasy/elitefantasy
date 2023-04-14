@@ -11,12 +11,8 @@
             "id": "a86cd623ffde55eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a86cd623ffde55eb",
+  "active": "be81c310a15b9dd3",
   "lastOpenFiles": [
+    "_index.md",
+    "tech/_index.md",
     "private/private-note.md",
     "notes/updating.md",
     "notes/troubleshooting.md",
@@ -165,7 +159,6 @@
     "notes/CJK + Latex Support (测试).md",
     "notes/callouts.md",
     "tech/windows/windows-customization.md",
-    "_index.md",
     "tech/windows/My Favourite List of Softwares.md",
     "Creating Your First Note in Quartz.md",
     "tech/Learn Github Pages.md",
