@@ -1,5 +1,5 @@
 ---
-title: "Example Title"
+title: "Brand New Post"
 tags:
 - example-tag
 draft: false
