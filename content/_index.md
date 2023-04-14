@@ -16,7 +16,9 @@ Here's my second brain presented to You!!
 
 If you are also a student especially a PCB student then you can check out some [study resources]() ( i will soon post them)
 
+{{< button relref="/tags/" class="..." >}}Explore by Tags {{< /button >}}
+
 ## List of Top Articles 📃
 
-[My Favourite List of Softwares](tech/windows/My%20Favourite%20List%20of%20Softwares.md)
+[My Favourite List of Softwares](posts/windows/My%20Favourite%20List%20of%20Softwares.md)
 

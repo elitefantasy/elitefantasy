@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/windows/My Favourite List of Softwares.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/windows/My Favourite List of Softwares.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/windows/My Favourite List of Softwares.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/windows/My Favourite List of Softwares.md"
+                "file": "_index.md"
               }
             }
           }
@@ -148,13 +148,17 @@
   },
   "active": "a86cd623ffde55eb",
   "lastOpenFiles": [
-    "tech/windows/windows-customization.md",
-    "tech/Learn Github Pages.md",
+    "posts/windows/My Favourite List of Softwares.md",
+    "posts/windows/windows-customization.md",
+    "templates/post.md",
+    "_index.md",
+    "posts/Learn Github Pages.md",
+    "posts",
+    "posts/learn-hugo/Shortcodes-hugo.md",
+    "posts/learn-hugo/hugo-Taxonomies.md",
     "private/private-note.md",
     "private/something private.md",
     "private/another private.md",
-    "tech/windows/My Favourite List of Softwares.md",
-    "_index.md",
     "Creating Your First Note in Quartz.md",
     "tech/_index.md",
     "notes/updating.md",
@@ -170,13 +174,9 @@
     "notes/editing.md",
     "notes/docker.md",
     "notes/config.md",
-    "notes/CJK + Latex Support (测试).md",
-    "notes/callouts.md",
-    "tech/Untitled.md",
     "test.html",
     "New Text Document.txt",
-    "templates/post.md",
-    "tech/windows",
+    "posts/windows",
     "tech",
     "Creating your First Note in Quartz"
   ]

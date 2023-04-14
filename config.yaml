@@ -28,8 +28,8 @@ markup:
 # Sidebar menu additional links
 menu:
   # before:
-  #   - name: "Sample"
-  #     url: "https://google.com"
+  #   - name: "List Categories"
+  #     url: "/categories"
   #     weight: 10
   after:
     - name: "🔗Github"
@@ -75,7 +75,7 @@ params:
   enableGitHubEdit: false
 
   # whether to render mermaid diagrams
-  enableMermaid: true
+  enableMermaid: false
 
   # Link to your Github repo
   GitHubLink: https://github.com/elitefantasy/elitefantasy
