@@ -1,14 +1,14 @@
 {
   "name": "📓 Amethyst",
   "short_name": "📓 Amethyst",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/elitefantasy/",
+  "scope": "/elitefantasy/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.png",
+      "src": "/elitefantasy/favicon.png",
       "sizes": "1024x1024"
     }
   ]
