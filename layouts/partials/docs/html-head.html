@@ -12,6 +12,7 @@
 
 <title>{{ partial "docs/html-head-title" . }}</title>
 
+
 {{- $manifest := resources.Get "manifest.json" | resources.ExecuteAsTemplate "manifest.json" . }}
 <link rel="manifest" href="{{ $manifest.RelPermalink }}">
 <link rel="icon" href="{{ "favicon.png" | relURL }}" type="image/x-icon">

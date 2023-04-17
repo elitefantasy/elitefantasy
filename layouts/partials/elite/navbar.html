@@ -1,0 +1,20 @@
+<!-- CSS  -->
+<link rel="stylesheet" type="text/css" href="{{ "css/navbar-style.css" | relURL }}">
+<div class="group">
+    <ul class="navigation">
+      <!-- <li><a href="{{ "/elitefantasy" | relURL }}">Home</a></li>
+      <li><a href="{{ "posts/" | relURL }}">Posts</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Github</a></li> -->
+      <li><a href="{{ $.Site.Params.menu1Url | relURL }}">{{$.Site.Params.menu1Name}}</a></li>
+      <li><a href="{{ $.Site.Params.menu2Url | relURL }}">{{$.Site.Params.menu2Name}}</a></li>
+      <li><a href="{{ $.Site.Params.menu3Url | relURL }}">{{$.Site.Params.menu3Name}}</a></li>
+      <li><a href="{{ $.Site.Params.menu4Url | relURL }}">{{$.Site.Params.menu4Name}}</a></li>
+      <li><a href="{{ $.Site.Params.menu5Url | relURL }}">{{$.Site.Params.menu5Name}}</a></li>
+        <!-- {{ range .Site.Menus.main }}
+        <li><a class="nav-link{{ if $.IsMenuCurrent "main" . }} active" aria-current="page{{ end }}" href="{{ .URL }}"> {{ .Pre }}
+            <span>{{ .Name }}</span>
+        </a></li>
+        {{ end }} -->
+    </ul>
+</div>

@@ -7,6 +7,8 @@ ignoreFiles: [
     "/content/private/*",
 ]
 
+# allow you to create a simple menu, based on the section structure of your /content folder
+sectionPagesMenu: main
 
 # Book configuration
 disablePathToLower: true
@@ -20,26 +22,33 @@ markup:
   tableOfContents:
     startLevel: 1
 
-# Multi-lingual mode config
-# There are different options to translate files
-# See https://gohugo.io/content-management/multilingual/#translation-by-filename
-# And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
-
 # Sidebar menu additional links
 menu:
-  # before:
-  #   - name: "List Categories"
-  #     url: "/categories"
-  #     weight: 10
-  after:
+  before:
+    # - name: "explore with tags"
+    #   url: tags/
+    #   weight: 10
     - name: "🔗Github"
       url: "https://github.com/elitefantasy/elitefantasy"
-      weight: 10
+      weight: 90
+  # after:
+  #   - name: "🔗Github"
+  #     url: "https://github.com/elitefantasy/elitefantasy"
+  #     weight: 10
 
 params:
-
   name: Elitefantasy
   title: 🍀 Elitefantasy Digital Garden
+  menu1Url: "/elitefantasy"
+  menu1Name: "Home"
+  menu2Url: "posts/"
+  menu2Name: "Posts"
+  menu3Url: ""
+  menu3Name: ""
+  menu4Url: ""
+  menu4Name: ""
+  menu5Url: ""
+  menu5Name: ""
 
   # OPTIONAL: custom favicon location
   # favicon: 'location/to/favicon.png'
@@ -61,7 +70,7 @@ params:
   enableCallouts: true
 
   # Show footer, including backlinks and graph view
-  enableFooter: true
+  enableFooter: false
 
   # whether backlinks of pages should show the context in which
   # they were mentioned
@@ -69,13 +78,6 @@ params:
 
   # whether to show a section of recent notes on the home page
   enableRecentNotes: true
-
-  # whether to display an 'edit' button next to the last edited field
-  # that links to github
-  enableGitHubEdit: false
-
-  # whether to render mermaid diagrams
-  enableMermaid: false
 
   # Link to your Github repo
   GitHubLink: https://github.com/elitefantasy/elitefantasy
@@ -117,18 +119,6 @@ params:
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
   BookRepo: https://github.com/64bitpandas/amethyst
-
-  # (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
-  # commit hash for 'doc' page type.
-  # Requires 'BookRepo' param.
-  # Value used to construct a URL consisting of BookRepo/BookCommitPath/<commit-hash>
-  # Github uses 'commit', Bitbucket uses 'commits'
-  # BookCommitPath: commit
-
-  # Enable "Edit this page" links for 'doc' page type.
-  # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
-  # Edit path must point to root directory of repo.
-  BookEditPath: edit/main/exampleSite
 
   # Configure the date format used on the pages
   # - In git information
